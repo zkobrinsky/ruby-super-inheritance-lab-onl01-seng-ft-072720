@@ -9,8 +9,4 @@ class ChattyStudent < Student
     10.times.do super
   end
 
-  def super_method
-    super
-  end
-
 end
