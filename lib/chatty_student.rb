@@ -10,5 +10,5 @@ class ChattyStudent < Student
     puts "Pick me!"
 
   end
-    
+
 end
